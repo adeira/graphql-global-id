@@ -1,0 +1,16 @@
+{
+  "name": "@kiwicom/graphql-global-id",
+  "description": "Utility to manage ID fields in GraphQL correctly.",
+  "homepage": "https://github.com/kiwicom/graphql-global-id",
+  "license": "MIT",
+  "private": false,
+  "version": "0.13.0",
+  "main": "src/GlobalID",
+  "sideEffects": false,
+  "dependencies": {
+    "@kiwicom/js": "^0.17.0"
+  },
+  "peerDependencies": {
+    "graphql": "^14.0.2"
+  }
+}
